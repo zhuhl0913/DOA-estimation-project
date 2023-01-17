@@ -1,6 +1,8 @@
 # DOA-estimation-project
 > Course project done in SI100B in Shanghaitech, collaborated with caotx@ and chenyh2@
 
+*For the report refer to SP_report.pdf*
+
 # Task 1: 
 
 1.Open the MATLAB file: narrowband_Project.m 
