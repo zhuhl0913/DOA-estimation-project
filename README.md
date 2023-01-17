@@ -1,7 +1,7 @@
 # DOA-estimation-project
 > Course project done in SI100B in Shanghaitech, collaborated with caotx@ and chenyh2@
 
-*For the report refer to SP_report.pdf*
+*For the report refer to report.pdf*
 
 # Task 1: 
 
